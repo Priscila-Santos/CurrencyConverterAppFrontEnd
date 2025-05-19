@@ -65,6 +65,13 @@ Este projeto evoluiu de uma aplicação de linha de comando para uma aplicação
 
 ---
 
+## View da Aplicação
+
+![Front-End do Conversor de Moedas](./src/assets/view.png)
+
+## Gif Da Aplicação
+![Front-End do Conversor de Moedas](./src/assets/view.gif)
+
 ## ▶️ Como Executar
 
 ### 1. Clonar o repositório
