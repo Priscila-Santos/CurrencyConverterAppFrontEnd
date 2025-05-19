@@ -6,6 +6,12 @@ Este projeto evoluiu de uma aplicação de linha de comando para uma aplicação
 
 ---
 
+## 🔗 Repositório do Backend
+
+O código do backendestá disponível separadamente em:  
+👉 https://github.com/Priscila-Santos/CurrencyConverterApp.git
+
+
 ## 🚀 Funcionalidades
 
 ### 🔙 Backend (Java)
